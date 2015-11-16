@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<openerp>
-	<data>
-                <menuitem id="menu_fedex_setting" name="Fedex Settings" parent="base_module_shipping.menu_shipping_service" action="shipping_fedex_action" />
-                
-       </data>
-</openerp>

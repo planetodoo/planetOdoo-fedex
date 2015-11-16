@@ -1,2 +1,0 @@
-name,model_id:id,group_id:id,perm_read,perm_write,perm_create,perm_unlink
-access.shipping.fedex,fedex_integration.model_shipping_fedex,base_module_shipping.group_shipping_manager,1,1,1,1
