@@ -26,15 +26,15 @@
     'description': """
      Odoo Integration With Fedex
     """,
-    "website" : "www.teckzilla.net",
-    'author': 'Teckzilla Software Solutions',
+    "website" : "http://planet-odoo.com/",
+    'author': 'Planet Odoo',
     'depends': ['sale','stock','delivery','product','sale_stock', 'base_module_shipping'],
     'css': [
         'static/src/css/rotate_label.css',
         ],
     "demo" : [],
 	"price": "250",
-    "currency": "USD",
+    "currency": "EUR",
     "data": [
         "security/ir.model.access.csv",
         "view/shipping_view.xml",
